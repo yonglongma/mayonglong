@@ -11,7 +11,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.*;
-
 import static com.yonglongma.core.ProjectConstant.*;
 
 /**
